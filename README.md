@@ -3,7 +3,7 @@ Architect Log
 
 [![Build Status](https://travis-ci.org/tdfairbrother/node-architect-log.svg)](https://travis-ci.org/tdfairbrother/node-architect-log)
 
-[![Coverage Status](https://coveralls.io/repos/tdfairbrother/node-architect-log/badge.svg)](https://coveralls.io/r/tdfairbrother/node-architect-log)
+[![Coverage Status](https://coveralls.io/repos/tdfairbrother/node-architect-log/badge.svg?branch=master)](https://coveralls.io/r/tdfairbrother/node-architect-log?branch=master)
 
 
 This module is a wrapper around the [Debug](https://github.com/visionmedia/debug) module and is exposed as an [Architect](https://github.com/c9/architect) plugin.
