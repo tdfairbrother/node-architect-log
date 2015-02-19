@@ -37,16 +37,12 @@ exports.formatLogMessage = function(message, logLevel) {
     switch(logLevel) {
         case 'info':
             return [infoType, gray(message)].join(' ');
-            break;
         case 'warn':
             return [warnType, message].join(' ');
-            break;
         case 'debug':
             return [debugType, message].join(' ');
-            break;
         case 'error':
             return [errorType, message.toUpperCase() ].join(' ');
-            break;
         default:
             return message;
     }
