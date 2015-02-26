@@ -1,7 +1,7 @@
 Architect Log
 ====================
 
-[![Build Status](https://travis-ci.org/tdfairbrother/node-architect-log.svg)](https://travis-ci.org/tdfairbrother/node-architect-log)
+[![Build Status](https://semaphoreapp.com/api/v1/projects/ba221ab4-e34e-410b-bf39-abc1719a06eb/359589/badge.png)](https://semaphoreapp.com/tdfairbrother/node-architect-log)
 
 [![Coverage Status](https://coveralls.io/repos/tdfairbrother/node-architect-log/badge.svg?branch=master)](https://coveralls.io/r/tdfairbrother/node-architect-log?branch=master)
 
